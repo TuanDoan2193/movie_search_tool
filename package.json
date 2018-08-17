@@ -1,0 +1,16 @@
+{
+  "name": "movie_searching_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "TuanDoan2193.github.io/movie_search_tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Tuan Doan",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
